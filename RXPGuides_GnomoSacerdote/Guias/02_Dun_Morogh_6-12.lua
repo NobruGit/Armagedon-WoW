@@ -83,7 +83,7 @@ step
     .accept 291 >>Acepta "The Reports" (se entrega en Forjaz, hazla de camino)
 step
     .goto Dun Morogh,47.30,52.20
-    .trainer >>Entrena: a nivel 10 Mind Blast (Explosion mental) y Resurrection. Gasta tu primer talento (ver la guia)
+    .trainer >>Entrena: a nivel 10 Mind Blast (Explosion mental) y Resurrection. Primer talento: Wand Specialization (Disciplina). Luego Spirit Tap, Twin Disciplines y Meditation (ver la guia)
 step
     .goto Dun Morogh,50.00,60.00
     .complete 319,1 >>Mata Ice Claw Bears

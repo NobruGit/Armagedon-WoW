@@ -61,5 +61,5 @@ step
 step
     .goto Westfall,56.30,47.50
     +Entrega todo en Sentinel Hill
-    .trainer >>Vuela a Ventormenta y entrena a nivel 20: Flash Heal, Mind Soothe, Shackle Undead, Mind Flay (talento)
+    .trainer >>Vuela a Ventormenta y entrena a nivel 20: Flash Heal, Mind Soothe, Shackle Undead. Usa Devouring Plague como segundo DoT (en Forever no necesita talento)
 ]])

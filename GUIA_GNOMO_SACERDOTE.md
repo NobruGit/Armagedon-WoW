@@ -15,41 +15,46 @@ Guía pensada para usarse **junto con el addon RestedXP** (carpeta `RXPGuides_Gn
 5. **Nunca corras sin hacer nada:** mata todo lo que esté de camino entre misiones.
 6. **Toma TODAS las misiones del pueblo antes de salir**, y entrégalas todas juntas.
 7. **Usa el descanso (Rested XP):** cierra sesión siempre dentro de una posada.
-8. **Nivel 40 = Shadowform + montura.** Es el gran salto de velocidad. Ahorra oro desde nivel 30.
+8. **Nivel 40 = cambio a Sombras (Shadowform) + montura.** Es el gran salto de velocidad. Necesitas **~120 de oro** (100 de equitación + ~20 de montura) más el cambio de talentos. Ahorra desde nivel 30.
+9. **Devouring Plague es un hechizo base en Forever:** úsalo como segundo DoT junto a SW:Pain.
 
 ---
 
 ## 2. Qué tiene de especial el Gnomo Sacerdote en WoW Forever
 
 - **Combinación nueva:** en Vanilla los gnomos no podían ser sacerdotes.
-- **Racials de sacerdote del gnomo** (según las guías de la beta; revisa el tooltip en el juego):
-  - **Confounding Flash:** confunde hasta 5 enemigos cercanos durante 3 s. Úsalo cuando te junten varios mobs: confundes, te alejas, curas o te pones el escudo.
-  - **Contingency Plan:** es el otro racial. Lee el tooltip en el juego; las fuentes de la beta no coinciden en lo que hace.
-- **Eureka!** reemplaza a la antigua resistencia arcana del gnomo.
-- **Fear Ward es básico** para todos los sacerdotes en Forever.
-- **Escape Artist** (racial clásico del gnomo) te quita raíces y ralentizaciones. Va muy bien para escapar de mobs.
+- **Racials de sacerdote del gnomo** (datos de la beta; confirma el tooltip en el juego):
+  - **Confounding Flash** (nivel 10): confunde hasta 5 enemigos a 8 m durante 3 s. Lanzamiento de 0,5 s, 2 min de reutilización. **Cualquier daño rompe el efecto.** No le pegues a nadie hasta que te alejes: úsalo para escapar, ponerte el escudo o curarte con calma.
+  - **Contingency Plan:** es una protección que pones antes de pelear (a ti o a un aliado). Cuando el objetivo baja del ~35 % de vida, se activa un escudo y una cura en el tiempo. Póntelo antes de juntar varios mobs. La duración (15 o 30 s) y la reutilización cambian según la fuente.
+- **Fear Ward** ya no es solo de enanos: lo tienen todos los sacerdotes.
+- **Escape Artist** (racial clásico del gnomo) te quita raíces y ralentizaciones.
+- **Cambios del árbol Shadow en Forever:** **Devouring Plague** ya viene sin talento (es un hechizo base: úsalo como segundo DoT). **Silence** cuesta 1 punto. **Improved Vampiric Embrace** ya no existe. **Shadowform** es el talento final del árbol.
 
 ---
 
-## 3. Talentos de leveo (Shadow)
+## 3. Talentos de leveo
 
-> Si Forever cambió el árbol (hay rumores de un sistema de talentos distinto), mantén la idea: **Spirit Tap → Mind Flay → mejoras de Mind Blast y SW:P → Shadowform a 40 → Wand Specialization**.
+En Forever, Shadowform está al final del árbol de Sombras. Las guías públicas (Icy Veins, Mobalytics, Maxroll) coinciden en el plan general:
+
+> **Del 10 al 39 sube con talentos de regeneración y varita. A nivel 40 cambia los talentos a Sombras completo para tener Shadowform.**
+
+### Ruta recomendada (la que menos te para a beber)
 
 | Nivel | Talento | Por qué |
 |---|---|---|
-| 10-14 | **Spirit Tap** 5/5 | Regeneras muchísimo maná y espíritu al matar. Es la clave del leveo. |
-| 15-16 | **Improved Shadow Word: Pain** 2/2 | SW:P dura más y hace más daño. |
-| 17-19 | **Shadow Focus** 3/5 | Fallas menos hechizos contra mobs de nivel alto. |
-| 20 | **Mind Flay** 1/1 | Daño + ralentización. Pegas mientras el mob se acerca. |
-| 21-25 | **Improved Mind Blast** 5/5 | Mind Blast más seguido. |
-| 26-30 | **Shadow Weaving** 5/5 (o Shadow Reach 3 + Shadow Focus 2) | Más daño de sombras. |
-| 31 | **Vampiric Embrace** 1/1 | Te curas mientras haces daño. |
-| 32-36 | **Darkness** 5/5 | +10 % de daño de sombras. |
-| 37-39 | Silence / Improved Vampiric Embrace / lo que falte | Puntos de relleno. |
-| **40** | **Shadowform** | Más daño y menos daño recibido. En Forever además lo mejoraron mucho. |
-| 41-45 | **Wand Specialization** 5/5 (Discipline) | Más daño de varita = menos maná gastado. |
-| 46-50 | **Improved Power Word: Shield** 3/3, **Improved PW: Fortitude** 2/2 | Escudo más fuerte. |
-| 51-60 | **Meditation** 3/3, **Inner Focus**, **Mental Agility**, **Unbreakable Will** | Más maná y eficiencia. |
+| 10-11 | **Wand Specialization** 2 | Más daño con la varita, que es tu daño principal al principio. |
+| 12-16 | **Spirit Tap** 5/5 | Regeneras muchísimo maná después de cada muerte. |
+| 17-21 | **Twin Disciplines** 5/5 | Más daño y curación con hechizos instantáneos (SW:Pain, Renew, Devouring Plague). |
+| 22-24 | **Mental Strength** 3 | Más maná máximo. |
+| 25-27 | **Meditation** 3/3 | Regeneras maná mientras lanzas hechizos. Es lo que te deja encadenar mobs. |
+| 28-39 | Completa **Wand Specialization** y sigue por eficiencia: escudo mejorado, **Inner Focus** y **Mental Agility** | Menos coste de maná y más daño de varita. |
+| **38** | **Guarda el oro para el cambio de talentos** | Así no te pilla sin dinero al llegar a 40. |
+| **40** | **Cambia los talentos a Sombras** y baja hasta **Shadowform** | Más daño de sombras y menos daño recibido. A partir de aquí leveas mucho más rápido. |
+| 41-60 | Termina Sombras: **Shadow Weaving**, **Darkness**, **Vampiric Embrace**, **Mind Flay** y mejoras de **Mind Blast/SW:Pain** | Mantén Shadowform y Vampiric Embrace para curarte gratis. |
+
+**Alternativa:** a partir de nivel 30 algunas guías usan una build con **Penance** (Disciplina) hasta 40: `Mind Blast → SW:Pain → Penance → varita`. Es igual de buena. Elige la que te guste más.
+
+> Las builds del 31 al 60 salen de la beta, que llegaba solo hasta nivel 30. Si al entrar ves algún talento distinto, mantén la idea: **regeneración + varita hasta 40, y Shadowform a 40.**
 
 ---
 
@@ -63,11 +68,11 @@ Guía pensada para usarse **junto con el addon RestedXP** (carpeta `RXPGuides_Gn
 1. `Mind Blast` → 2. `SW:Pain` → 3. `Power Word: Shield` si se acerca → 4. `Mind Flay` si te pega fuerte → 5. **Varita** para rematar.
 
 **Con Shadowform (40+):**
-- `Shadowform` siempre activo. `Mind Blast` → `SW:Pain` → `Vampiric Embrace` (si hay que curarse) → `Mind Flay` → varita.
+- `Shadowform` siempre activo. `Mind Blast` → `SW:Pain` → `Devouring Plague` → `Vampiric Embrace` (si hay que curarse) → `Mind Flay` → varita.
 - Si estás lleno de maná (Spirit Tap activo), encadena el siguiente mob ya.
 
 **Varios mobs (2-3):**
-- `PW:Shield` → `SW:Pain` a todos → `Psychic Scream` (miedo) o **Confounding Flash** → remata uno a uno con `Mind Flay`/varita.
+- `Contingency Plan` antes de empezar → `PW:Shield` → `SW:Pain` a todos → si se complica, `Psychic Scream` (miedo) o **Confounding Flash**. Ojo: el Flash se rompe con daño y los DoTs lo rompen. Úsalo para huir o curarte, no para seguir pegando. Luego remata uno a uno con `Mind Flay`/varita.
 - Si alguno es no-muerto: `Shackle Undead` y matas al otro primero.
 
 **Ahorro de maná:**
@@ -144,6 +149,8 @@ Guía pensada para usarse **junto con el addon RestedXP** (carpeta `RXPGuides_Gn
 - **Pon la piedra de hogar** en el hub donde vas a entregar las misiones.
 - **Consigue todos los puntos de vuelo** al pasar. La guía de RestedXP te los marca.
 - **Vende la basura** cada vez que vuelvas al pueblo. El oro es para la montura a 40.
+- **Plan de oro para el 40:** equitación ~100 de oro + montura ~20 + cambio de talentos (desde 1 de oro). Algunas fuentes dicen que la primera montura racial se consigue gratis con una misión a nivel 40. Si es así, mejor, pero no cuentes con ello. Los descuentos de reputación bajan el precio.
+- **Nivel 60:** la equitación rápida (100 %) cuesta ~1000 de oro. Eso ya no forma parte del leveo.
 - **Misiones de élite o de grupo:** sáltalas si no hay grupo a mano.
 - **Macro útil (escudo sin perder objetivo):**
   ```

@@ -61,6 +61,6 @@ step
 step
     .xp 40 >>Termina Stranglethorn (Nesingwary, Booty Bay, Rebel Camp) hasta nivel 40
 step
-    .trainer >>NIVEL 40: Entrena Greater Heal y TU TALENTO SHADOWFORM. A partir de aqui leveas mucho mas rapido
-    +Compra tu montura en Gnomeregan/Forjaz (Mechanostrider) si tienes el oro. Es la mayor mejora de velocidad de todo el leveo
+    .trainer >>NIVEL 40: Entrena Greater Heal y CAMBIA LOS TALENTOS A SOMBRAS hasta Shadowform. A partir de aqui leveas mucho mas rapido
+    +Compra tu montura en Gnomeregan/Forjaz (Mechanostrider): ~100 de oro de equitacion + ~20 de montura. Es la mayor mejora de velocidad de todo el leveo
 ]])
