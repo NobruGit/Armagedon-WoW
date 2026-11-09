@@ -2,12 +2,20 @@
 ## Title: RXP Guides - Gnomo Sacerdote 1-60 (WoW Forever)
 ## Notes: Guia de leveo rapido 1-60 para Gnomo Sacerdote (Alianza) para el addon RestedXP Guide.
 ## Author: Armagedon-WoW
-## Version: 1.0.0
+## Version: 2.0.0
 ## Dependencies: RXPGuides
 ## RequiredDeps: RXPGuides
 
 Guias\01_Valle_Crestanevada_1-6.lua
 Guias\02_Dun_Morogh_6-12.lua
-Guias\03_Loch_Modan_12-20.lua
-Guias\04_20-40.lua
-Guias\05_40-60.lua
+Guias\03_Loch_Modan_12-16.lua
+Guias\04_Westfall_16-20.lua
+Guias\05_Redridge_Darkshore_20-24.lua
+Guias\06_Ashenvale_Wetlands_24-28.lua
+Guias\07_Duskwood_28-31.lua
+Guias\08_Hillsbrad_Arathi_31-35.lua
+Guias\09_Stranglethorn_35-40.lua
+Guias\10_Tanaris_Feralas_40-46.lua
+Guias\11_Hinterlands_UnGoro_46-52.lua
+Guias\12_Felwood_Winterspring_52-56.lua
+Guias\13_Plaguelands_56-60.lua

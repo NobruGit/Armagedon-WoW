@@ -7,7 +7,7 @@ RXPGuides.RegisterGuide([[
 #group Gnomo Sacerdote 1-60 (WoW Forever)
 #defaultfor Gnome
 #name 6-12 Dun Morogh
-#next 12-20 Loch Modan
+#next 12-16 Loch Modan
 
 step
     .goto Dun Morogh,46.70,53.80
